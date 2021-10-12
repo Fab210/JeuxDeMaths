@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.exe
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.deps.json
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.runtimeconfig.json
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.dll
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\bin\Debug\netcoreapp3.1\JeuxDeMaths.pdb
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.AssemblyInfo.cs
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.dll
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.pdb
+C:\Users\fabio\source\repos\JeuxDeMaths\JeuxDeMaths\obj\Debug\netcoreapp3.1\JeuxDeMaths.genruntimeconfig.cache
